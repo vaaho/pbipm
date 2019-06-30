@@ -1,8 +1,12 @@
 // ==UserScript==
 // @name         Power BI Password Manager
+// @namespace    https://github.com/vaaho/pbipm
+// @description  Autofill passwords when sign in Power BI
 // @version      0.1
-// @description  Auto fill passwords when sign in Power BI
+// @license      MIT
 // @author       vaaho
+// @homepageURL  https://github.com/vaaho/pbipm
+// @updateURL    https://github.com/vaaho/pbipm.user.js
 // @match        https://login.microsoftonline.com/*
 // @run-at       document-body
 // @resource     passData http://dev-ru-vcs.ics-dev-node1.ru.mgo.su/pbipass.json
