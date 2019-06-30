@@ -2,7 +2,7 @@
 // @name         Power BI Password Manager
 // @namespace    https://github.com/vaaho/pbipm
 // @description  Autofill passwords when sign in Power BI
-// @version      0.1
+// @version      1.0.0
 // @license      MIT
 // @author       vaaho
 // @homepageURL  https://github.com/vaaho/pbipm
