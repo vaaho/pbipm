@@ -1,2 +1,2 @@
-# pbipm
-Power BI Password Manager Scripts
+# Power BI Password Manager 
+User script for autofilling passwords.
